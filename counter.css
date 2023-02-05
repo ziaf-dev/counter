@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 16%;
+}
+
+
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+.container{
+    border: 2px solid black;
+    padding: 5px;
+    margin:5px;
+    height:200px;
+    width: 500px;
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+background-color: steelblue;
+}
+
+    
